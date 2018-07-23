@@ -64,7 +64,7 @@
         "main": true,
         "title": "品品學堂 Pinkoi Experience",
         "meta_descr": "Pinkoi 品品學堂規劃一系列體驗活動，以台北為據點，將線上美好的設計延展到實際體驗。 喜歡 Pinkoi 及手作氛圍的你，將直接與設計師一同創作，真實感受每個創作的過程並參與其中，形塑出獨一無二的美好回憶。",
-        "header_custom": "<style>\n  body {\n    font-family: \"Helvetica Neue\",Helvetica,Arial,\"PingFang TC\",\"Heiti TC\",\"微軟正黑體\",\"Microsoft JhengHei\",\"Noto Sans T Chinese\",\"Droid Sans Fallback\",sans-serif;\n}\n</style>\n\n <!-- open graph description -->\n<meta property=\"og:title\" content=\"品品學堂 Pinkoi Experience\">\n<meta property=\"og:description\" content=\"Pinkoi 品品學堂規劃一系列體驗活動，以台北為據點，將線上美好的設計延展到實際體驗。 喜歡 Pinkoi 及手作氛圍的你，將直接與設計師一同創作，真實感受每個創作的過程並參與其中，形塑出獨一無二的美好回憶。\">\n<meta property=\"og:url\" content=\"https://pinkoi-events.github.io/pinkoi-experience\">\n<meta property=\"og:image\" content=\"assets/images/og-img.jpg\">\n<!-- open graph END -->\n\n<link rel=\"apple-touch-icon\" href=\"@PROJECT_PATH@/assets/images/og-img.jpg\">",
+        "header_custom": "<style>\n  body {\n    font-family: \"Helvetica Neue\",Helvetica,Arial,\"PingFang TC\",\"Heiti TC\",\"微軟正黑體\",\"Microsoft JhengHei\",\"Noto Sans T Chinese\",\"Droid Sans Fallback\",sans-serif;\n}\n</style>\n\n <!-- open graph description -->\n<meta property=\"og:title\" content=\"品品學堂 Pinkoi Experience\">\n<meta property=\"og:description\" content=\"Pinkoi 品品學堂規劃一系列體驗活動，以台北為據點，將線上美好的設計延展到實際體驗。 喜歡 Pinkoi 及手作氛圍的你，將直接與設計師一同創作，真實感受每個創作的過程並參與其中，形塑出獨一無二的美好回憶。\">\n<meta property=\"og:url\" content=\"https://sylvialinpinkoi.github.io/test-deploy/\">\n<meta property=\"og:image\" content=\"assets/images/og-img.jpg\">\n<!-- open graph END -->\n\n<link rel=\"apple-touch-icon\" href=\"@PROJECT_PATH@/assets/images/og-img.jpg\">",
         "footer_custom": "",
         "html_before": ""
       },
